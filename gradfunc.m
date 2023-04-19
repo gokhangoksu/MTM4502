@@ -1,0 +1,3 @@
+function ypr = gradfunc(x)
+    % TO BE WRITTEN...
+end

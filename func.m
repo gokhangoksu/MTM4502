@@ -1,0 +1,3 @@
+function y = func(x)
+    % TO BE WRITTEN...
+end

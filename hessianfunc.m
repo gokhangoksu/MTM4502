@@ -1,0 +1,3 @@
+function yprpr = hessianfunc(x)
+    % TO BE WRITTEN...
+end
